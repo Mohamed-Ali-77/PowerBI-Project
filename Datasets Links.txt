@@ -6,3 +6,7 @@ https://github.com/undiscovered-genius/Netflix-Prime-Hotstar-Dashboard-Power-BI/
 
 Amr: https://statics.teams.cdn.office.net/evergreen-assets/safelinks/1/atp-safelinks.html    
      https://www.kaggle.com/code/paulinan/bank-customer-segmentation/input?select=german_credit_data.csv
+------------------------------------------------------------------------------------------------------------------------------
+
+Olympic games dataset : https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results/
+project video example : https://www.youtube.com/watch?v=Wuq100I1bu4
